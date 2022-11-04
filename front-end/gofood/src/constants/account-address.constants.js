@@ -1,0 +1,1 @@
+export const MaximumAddressOfTheAccount = 20;

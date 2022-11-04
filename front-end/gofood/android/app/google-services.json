@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "647559381057",
+    "project_id": "otp-gofnb",
+    "storage_bucket": "otp-gofnb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647559381057:android:4a4c2c52b84fb4706dc6c0",
+        "android_client_info": {
+          "package_name": "com.gofnb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647559381057-g2eiq90e0tj9rg0j9epvc5gr3jtol563.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gofnb",
+            "certificate_hash": "7fd277604bcaad569317ebc83ddf6e6f7ced7e5a"
+          }
+        },
+        {
+          "client_id": "647559381057-9jbbcsog9fup654t9urjupvtf3vc6v0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsL-PHVqeq0hvpchushvoR_AhdUtViRIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647559381057-9jbbcsog9fup654t9urjupvtf3vc6v0i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647559381057-0svinsbf390t2ei547l35p7b8bh1na7u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediastep.gofnb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
